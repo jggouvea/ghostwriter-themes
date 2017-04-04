@@ -6,9 +6,20 @@
 
 [Wereturtle](https://github.com/wereturtle), the developer of Ghostwriter, has not, so far, documented the Theme spec. This is a tentative approach to understanding what the theme file must include.
 
+> __UPDATE:__ In the meantime Wereturtle has added a page on this topic to Ghostwriter's Wiki. The new information therein available will eventually be integrated into this page:
+> 
+> - [Ghostwriter's Wiki: Theme File Format](https://github.com/wereturtle/ghostwriter/wiki/Theme-File-Format)
+
 ### Local
 
-Theme files must be kept in a folder of their own inside the `~/.config/ghostwriter/themes` if you are on Linux, like me. If you're not, please edit this file to add where themes reside in other OSes.
+Theme files must be kept in a folder of their own inside the themes folder. Depending on your OS, the themes folder will be located in one of the following locations:
+
+|           OS           |                         THEMES PATH                         |
+|------------------------|-------------------------------------------------------------|
+| Windows:               | `C:\Users<your_user_name>\AppData\Roaming\ghostwriter\themes` |
+| Windows portable mode: | `<your_ghostwriter_portable_folder>\data\themes`              |
+| Linux:                 | `/home/<your_user_name>/.config/ghostwriter/themes`           |
+| Mac OS X:              | `~/Library/Application Support/ghostwriter/themes`            |
 
 ### Naming
 
