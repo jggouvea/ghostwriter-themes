@@ -1,6 +1,6 @@
 # ghostwriter-themes
 
-[Ghostwriter](https://github.com/wereturtle/ghostwriter) is a multiplataform distraction-free [Markdown](https://daringfireball.net/projects/markdown) editor. while I consider it a pretty good piece of software, it is still lacking a good variety of themes so users can avoid monotony when they feel like. Here I will collect my experimental themes, and you are invited to contribute yours.
+[Ghostwriter](https://github.com/wereturtle/ghostwriter) is a multi-platform, distraction-free, [Markdown](https://daringfireball.net/projects/markdown) editor. while I consider it a pretty good piece of software, it is still lacking a good variety of themes so users can avoid monotony when they feel like. Here I will collect my experimental themes, and you are invited to contribute yours.
 
 ## Theme Documentation
 
